@@ -10,10 +10,11 @@ Inspired by:
 ---
 
 ## 💬 Example Dialog
-> **A:** Can you do me a favor?  
-> **B:** Anything.  
-> **A:** I want you to bend a father.  
-> **B:** Of course.  
+
+> **A:** I didn't do it! I haven't got a gun!
+> **B:** You liar. You still want to get your money back.
+> **A:** Something wrong with the truth.
+> **B:** I don't want money, just peace.
 
 More samples in the [results folder](result).
 
